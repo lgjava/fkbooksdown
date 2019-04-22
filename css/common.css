@@ -1,0 +1,12 @@
+.contentCenter {
+	text-align: center;
+	font-size: 40px;
+}
+.titleText {
+	text-align: left;
+	font-size: 54px;
+	font-weight: bold;
+}
+.redText {
+	color: red;
+}
